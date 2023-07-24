@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learning backend with nodejs, express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdtri/Backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Tri Cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdtri/Backend/issues"
+  },
+  "homepage": "https://github.com/cdtri/Backend#readme"
+}
